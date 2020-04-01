@@ -1,1 +1,2 @@
-# ecclesiastesgroup.github.io
+# Ecclesiastes
+Welcome to the Ecclesiastes project website.
